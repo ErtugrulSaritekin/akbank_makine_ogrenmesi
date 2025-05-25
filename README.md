@@ -1,7 +1,7 @@
 # Akbank Makine Öğrenmesi Bootcamp - Proje: Iowa Konut Fiyatı Tahmini
 
 **Öğrenci:** Ertuğrul Sarıtekin
-
+NOT: DEĞERLİ OKUYUCU, GITHUB ANLAM VEREMEDİĞİM ŞEKİLDE HATA VERİYOR BİRKAÇ FARKLI ŞEKİLDE  DEĞİŞTİREREK YÜKLEDİM OLMADI BU YÜZDEN SİZİNLE COLAB LİNKİNİ BURADA PAYLAŞIYORUM AYRICA COLAB LİNKİYLE  BURADAKİ ÖDEVİN AYNI OLDUĞUNU BİLGİSAYARINIZA İNDİREREK ANLAYABİLİRSİNİZ SAYGILARIMLA https://colab.research.google.com/drive/1PcZcarcsVbJxn3zQ_l_agCDx0qteRAY4?usp=sharing
 
 ## Projeye Genel Bakış
 
