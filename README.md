@@ -7,7 +7,7 @@
 
 Bu proje, Iowa Konut veri setini kullanarak Ames, Iowa'daki ev fiyatlarını tahmin etmeyi amaçlamaktadır. Bu, çeşitli ev özelliklerine dayanarak `SalePrice` değerini tahmin etmeye çalıştığımız bir regresyon görevidir.
 
-**Kaggle Notebook Linki:** [SENİN_KAGGLE_NOTEBOOK_LİNKİN_BURAYA_GELECEK]
+
 
 ## Metodoloji
 
